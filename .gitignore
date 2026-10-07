@@ -1,0 +1,16 @@
+# Data og modeller (for store, gjenskapes fra README)
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+models/*
+!models/README.md
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+
+# macOS
+.DS_Store
+~$*.docx
