@@ -1,0 +1,17 @@
+# Data og modeller (for store, gjenskapes fra README)
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+models/*
+!models/model.joblib
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+
+# macOS
+.DS_Store
+~$*.docx
+.vscode/
