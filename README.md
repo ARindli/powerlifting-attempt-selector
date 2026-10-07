@@ -25,7 +25,12 @@ Arbeidsplanen ligger i [PLAN.md](PLAN.md).
 *[Fylles ut underveis. Noen som aldri har sett prosjektet skal kunne følge stegene fra et tomt
 oppsett til kjørende nettside.]*
 
-1. Miljø: *[hvordan installere avhengigheter]*
+1. Miljø (Python 3.12):
+   ```bash
+   conda env create -f environment.yml
+   conda activate forsoksvelger
+   ```
+   Uten conda: lag et virtuelt miljø med Python 3.12 og kjør `pip install -r requirements.txt`.
 2. Data: *[hvordan laste ned]*
 3. Prosessering: *[hvilket skript eller notebook, og hva det produserer]*
 4. Trening og evaluering: *[kommando, forventet tid, hvor resultatene havner]*

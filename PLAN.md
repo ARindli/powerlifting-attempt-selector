@@ -18,8 +18,8 @@ Forstå problemet  →  Data  →  Modellering  →  Deployment
 
 ## Fase 0 – Oppsett
 
-- [ ] Opprett et offentlig GitHub-repo og push denne mappestrukturen
-- [ ] Bestem Python-versjon og hvordan miljøet skal gjenskapes (requirements-fil eller conda-miljø)
+- [x] Opprett et offentlig GitHub-repo og push denne mappestrukturen
+- [x] Bestem Python-versjon og hvordan miljøet skal gjenskapes (requirements-fil eller conda-miljø)
 - [ ] Bestem hva som **ikke** skal i git (rådata, store modellfiler) og hvordan andre likevel kan gjenskape dem
 - [ ] Start [docs/kilder.md](docs/kilder.md) og før inn hver kilde (også AI-verktøy) fortløpende
 
