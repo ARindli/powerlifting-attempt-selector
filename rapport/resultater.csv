@@ -1,0 +1,4 @@
+,ROC AUC,Log loss,Brier
+Baseline (løft × forsøk),0.7408,0.4613,0.1486
+Logistisk regresjon,0.756,0.4527,0.145
+Gradient boosting (tunet),0.7723,0.4418,0.1416
